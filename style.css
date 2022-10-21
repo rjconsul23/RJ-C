@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+}
+
+.Doing  {
+  font-size: 25px;
+  background-color: black; width: 1345px;
+  color: white;
+
+}
+
+.Movies {
+  font-size: 25px;
+
+
+
+
+}
+
+h1 {
+  color: white;
+
+}
+
+.RJ {
+  display: flex;
+    margin-right: 200px;
+    background-color: red; width: 1400px; height: 700px;
+}
+
+.Idol {
+    margin-left: 1300px;
+}
